@@ -1,0 +1,24 @@
+{
+  "name": "מסכן – מסכנות · Fiche B2",
+  "short_name": "מסכן B2",
+  "description": "Fiche pédagogique B2 — étymologie de מסכן / mesquin",
+  "start_url": "/fiche-masken/fiche_masken_v4.html",
+  "scope": "/fiche-masken/",
+  "display": "standalone",
+  "background_color": "#f5ecd7",
+  "theme_color": "#8b3a0f",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://moty31700.github.io/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://moty31700.github.io/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
